@@ -1,4 +1,4 @@
-# poc_nav_modular
+# modular_nested_router_outlets
 
 A new Flutter project.
 
